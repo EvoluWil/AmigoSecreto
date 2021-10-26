@@ -12,15 +12,15 @@
   informando quem ele sorteou
 </h4>
 
-##Screenshot
+## Screenshot
 
-<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen" />
+<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen.png" />
 
-<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen1" />
+<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen1.png" />
 
-<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen2" />
+<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen2.png" />
 
-<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen3" />
+<img alt="Gift" src="https://github.com/Willian-Rodrigues/AmigoSecreto/blob/main/frontend/src/assets/screen3.png" />
 
 
 ## 🏁 Iniciando <a name = "getting_started"></a>
