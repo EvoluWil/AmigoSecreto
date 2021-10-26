@@ -58,7 +58,6 @@ $ yarn start or npm run start
 ```
 
 <hr/
-```
 
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
 
